@@ -29,7 +29,7 @@ class Args:
         self.seed = 0
         self.cuda_device = 0
         self.images_path = None  # Update this to process images
-        self.video_path = '../../data/openmml/video3.mp4'  # Update this to process video
+        self.video_path = '../../data/openmml/tea.mp4'  # Update this to process video
         self.save_dir = "../../output/"
         self.skip_the_fist_frames = 0
         self.duration_of_record_sec = 10000000
